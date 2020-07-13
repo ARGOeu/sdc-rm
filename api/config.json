@@ -1,0 +1,8 @@
+{
+    "bind": "localhost",
+    "port": 5000,
+    "remote_url" : "https://remote_endpoint.example.foo/path/to/json",
+    "verify": "false",
+    "ratelimit_window_ms": 60000,
+    "ratelimit_max_requests": 10 
+}
